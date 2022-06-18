@@ -18,4 +18,8 @@ Para iniciar este pequeño proyecto, sigo los siguientes pasos:
  * **logo.svg**
  * **App.test.js**
  * **reportWebVitals.js**
- * **setupTests.js**
+ * **setupTests.js**   
+Tambien se eliminan varias lineas de codigo, pero eso es a eleccion del usuario.
+6. Para ver el proyecto en el navegador, usar `npm start`.
+
+## Crear la aplicacion de actividades ...
