@@ -23,3 +23,9 @@ Tambien se eliminan varias lineas de codigo, pero eso es a eleccion del usuario.
 6. Para ver el proyecto en el navegador, usar `npm start`.
 
 ## Crear la aplicacion de actividades ...
+
+1. Crear tareas
+2. Listar tareas
+3. Almacenar en localstorage
+4. Tareas activas o inactivas
+5. 
